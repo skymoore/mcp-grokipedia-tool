@@ -6,6 +6,7 @@
 [![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1349/grokipedia)
 
 # Grokipedia MCP Server
+## This is actually a fork of [grokipedia-mcp](https://github.com/skymoore/grokipedia-mcp)
 
 [![smithery badge](https://smithery.ai/badge/@skymoore/grokipedia-mcp)](https://smithery.ai/server/@skymoore/grokipedia-mcp)
 
